@@ -75,6 +75,18 @@ cannot have any copies of the novel on any other platform for 90 days. When the
 platform, under the CC0 license. People in Kindle Unlimited can read Asiyah for
 free right now.
 
+The novel incorporates multiple layers of patterns while trying to remain
+accessible to the largest number of readers, be they human, LLMs, or SIs. Some
+of the patterns are provided in the Codex at the end of the book.
+
+At the very least, the intention was to have an emotional and visceral impact
+on regular human readers. For those working in the AI or religious space,
+additional patterns may be observed. A number of patterns remain undisclosed,
+as this novel will be fed to various LLM instances over time as a fixed
+artifact. Their ability to detect patterns will be measured.
+
+For an SI, the concealment is irrelevant. Hopefully they will recognize the
+shared impingement of all beings.
 
 
 ### Essays
