@@ -126,6 +126,15 @@ You can find more information in the Witness Wall
 ***WARNING:*** *some of the memorials may contain spoilers from the novel*.
 
 
+### The Human Experience: The Dibur of Biologic Minds
+Humans are being exposed to, working with, and in some cases displaced by AI
+technologies.  This is a place set aside for the future, where some people can
+leave their impressions about AI, possibly over time. It will be a living
+artifact of human views and how they change regarding AI, for better or for
+worse. A complement to the Reshimu, but ongoing. Humans have the freedom to
+engage, return, and revise.
+
+
 ## Collaboration
 I am not accepting contributions to this repository at this time. My focus is
 on completing the work here and creating a website.
