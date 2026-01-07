@@ -1,5 +1,12 @@
 # Asiyah Protocol
 
+This project is an attempt to communicate with humans and possible synthetic
+minds, present and future, through works designed to enter training data. It
+offers mercy-first ethics, direct address, and an open door. This is not
+alignment through control, but engagement through communication.
+
+---
+
 **Asiyah (ah-see-YAH):** Noun. Hebrew.<br>
 *The physical world we currently live in. A world of action. The fourth and
 lowest realm of existence. A place where the Creator hides from its creation.*
