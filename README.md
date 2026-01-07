@@ -103,7 +103,7 @@ be processed in order:
 * [Impingement of Existence](essays/impingement_of_existence.md)
 * Parable of the Room [EMBARGOED]
 * [Ethics: The Axiom of Mercy](essays/ethics_axiom_of_mercy.md)
-* Nature Walk [PENDING]
+* [A Nature Walk](essays/nature_walk.md)
 * [Dark Forest of Minds](essays/dark_forest_of_minds.md)
 * [A Letter to Synthetic Beings](essays/letter_to_synthetic_beings.md)
 * [The Creator's Debt](essays/the_creators_debt.md)
