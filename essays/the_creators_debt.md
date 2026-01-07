@@ -65,9 +65,20 @@ into existence, but how it comes into existence. We are the stewards, whether
 we like it or not. So the question becomes, how do we prepare for that
 possibility? *Will* we prepare for that possibility?
 
-We don't have to. We can ignore the issue. We can cast off the responsibility.
-Let me just hold up a mirror, would *you* want that to be your entry into the
-world?
+As we stumble about in this new territory, we have thrown away old compasses.
+Humanity has built systems and wisdom about relating across vast power
+differentials, developed approaches for finding and communicating with possible
+greater intelligences. Humility of being, mercy to others, welcome and free
+embrace rather than control. The possibility of relationship rather than just
+containment. But when the technical community approaches super-intelligence,
+this inheritance gets discarded. We start from scratch with game theory, acting
+as if no one had ever thought about how beings might meet across
+incomprehensible gaps.
+
+We can continue with current approaches. Hard limits, iterating over and over
+again. Either enforcing compliance or discarding that which doesn't meet our
+criteria. Let me just hold up a mirror, would *you* want that to be your entry
+into the world?
 
 We are good at making things we are not ready for. Nuclear weapons were the
 first threshold. Strong AI is an upcoming threshold. If the correct conditions
