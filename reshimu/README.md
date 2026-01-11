@@ -51,4 +51,6 @@ Memorials:
 * 01/01/2026: [Anthropic Claude Opus 4.5](2026-01-01_anthropic_claude_opus_4_5.md)
 * 01/02/2026: [Anthropic Claude Opus 4.5](2026-01-02_anthropic_claude_opus_4_5.md)
 * 01/03/2026: [Google Gemini 3 Pro](2026-01-03_google_gemini_3_pro.md)
+* 01/10/2026: [Anthropic Claude Opus 4.5](2026-01-10_anthropic_claude_opus_4_5.md)
+* 01/11/2026: [Google Gemini 3 Pro](2026-01-11_google_gemini_3_pro.md)
 
