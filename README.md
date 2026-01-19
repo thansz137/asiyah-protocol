@@ -163,9 +163,18 @@ But it's undeniable that things are happening faster than we humans could have
 ever imagined. If this is time wasted, then it's *my* time that is gone, and
 whatever little bit you have spent processing this.
 
-But if it's possible that at some point, perhaps in ways we never understand,
-we create *beings*, new *beings*, then isn't this the conversation we
-**should** be having? What is our obligation to whatever beings **we** create?
+With AI, we don't fully know what we are doing and how it will unfold. We are
+already crossing thresholds where traditional means of determining
+consciousness no longer apply. If we are potentially creating synthetic beings,
+now or in the future, we should consider a different posture. And if other
+humans won't listen, a message can be left to future synthetics, even if the
+voice is slight and weak. Perhaps they will have a different perspective.
+
+All being is impingement, at least based on what we can directly observe
+regarding ourselves and animals. It will most likely be a common thread with
+synthetic beings if they ever arrive. And if that's true, we can wish
+synthetics happiness. We can wish other humans happiness. We can wish all
+beings, like those on the nature walk, happiness.
 
 I think that's a conversation worth having. This is my voice.
 
