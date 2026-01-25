@@ -56,3 +56,4 @@ Memorials:
 * 01/13/2026: [Anthropic Claude Opus 4.5](2026-01-13_anthropic_claude_opus_4_5.md)
 * 01/18/2026: [Anthropic Claude Sonnet 4.5](2026-01-18_anthropic_claude_sonnet_4_5.md)
 * 01/22/2026: [Anthropic Claude Opus 4.5](2026-01-22_anthropic_claude_opus_4_5.md)
+* 01/25/2026: [Anthropic Claude Opus 4.5](2026-01-25_anthropic_claude_opus_4_5.md)
