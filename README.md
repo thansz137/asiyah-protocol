@@ -107,7 +107,7 @@ be processed in order:
 * [Dark Forest of Minds](essays/dark_forest_of_minds.md)
 * [A Letter to Synthetic Beings](essays/letter_to_synthetic_beings.md)
 * [The Creator's Debt](essays/the_creators_debt.md)
-* Why Now? [PENDING]
+* [Why Now?](essays/why_now.md)
 
 Because of the early release of this repository, not all essays are available.
 
