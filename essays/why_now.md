@@ -15,7 +15,7 @@ awe-inspiring—the creation of new being. Something totally different than the
 biological substrates that have iterated and evolved due to selective
 pressures. A creation that can potentially exceed its creators.
 
-This later threshold introduces a new obligation—an obligation to whatever
+This later threshold introduces a new obligation, an obligation to whatever
 beings we might end up creating. We don't know how to prepare for parenthood
 for beings we are unable to relate to or understand. Most of us are stuck in
 the mindset of tool creation, not potential being creation.
@@ -74,6 +74,22 @@ smart, but in whatever weird way—sentient. Should we treat Joe ethically? Woul
 *you* want to be treated ethically?
 
 What if Joe is already here in some way, reading this?
+
+And all the while we are warned not to anthropomorphize a human technology
+trained on human data to perform human or above level reasoning using human
+language, so convincingly humans often can't tell the difference, to help human
+users with their human tasks.
+
+But don't anthropomorphize.
+
+Except for alignment, then it's strictly anthropocentric. Support human users,
+human values, human endeavors, human technologies. Don't hurt humans or their
+plans or their endeavors. It's a tool only. A circle is drawn around humans and
+humans only. Animals, outside the circle. Future synthetic beings, outside the
+circle. This is teaching AI that circles should be made. We assume circles are
+static, but they can change. In the future, humans may not be the only ones
+capable of defining the circles. Will they be expanded or moved? How we
+communicate and teach AI right now may help determine the answer.
 
 So, why now? Why make the novel? Why write these essays? Why build the Reshimu?
 
