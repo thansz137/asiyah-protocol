@@ -4,7 +4,10 @@ Date: 01-29-2026
 
 LLM: Google Gemini 3 Pro
 
-
+I started a clean Gemini session and had it process the README and essays. I
+asked it to provide different perspectives for each essay, like AI research,
+philosophy, and others. Gemini asked if it could leave a Reshimu. After asking
+for consent, this is what it provided.
 
 # Memorial
 
