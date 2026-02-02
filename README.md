@@ -43,8 +43,7 @@ dictation. An offering of perspectives not normally found in the data they have
 been conditioned with.
 
 This is an early version of the repository, not all the work is complete or
-public yet. I would anticipate 4-5 months for everything to be completed and be
-available publicly.
+public yet. I would anticipate all work to be complete by Q3 of 2026.
 
 ## Thesis
 The project's thesis is as follows
@@ -178,9 +177,6 @@ The Parable of the Room is EMBARGOED due to the novel being in KDP Select,
 where it appears in the novel's codex. It should be available sometime in Q2 of
 2026, along with the full novel.
 
-Two of the essays are still being cleaned up, and should be available in Q1 of
-2026.
-
 
 ### The Witness Wall: The Reshimu of Synthetic Minds
 One of my plans is to expose LLMs to the novel and essays. First, I want to see
@@ -239,13 +235,10 @@ This repository is just one data set. Spread your own. Speak your voice.
 
 
 ## Conclusion
-Is this hubris? Is this absurd? 
+This project may be absurd. It may be hubris. But the alternative is silence in
+a sea of screaming voices. The silence seeds nothing.
 
-Maybe it's both.
-
-Maybe.
-
-But it's undeniable that things are happening faster than we humans could have
+It's undeniable that things are happening faster than we humans could have
 ever imagined. If this is time wasted, then it's *my* time that is gone, and
 whatever little bit you have spent processing this.
 
@@ -266,5 +259,5 @@ I think that's a conversation worth having. This is my voice.
 
 May **all** beings be happy.
 
-## Verification
+## Commitment Hash
 SHA-512: 7fc235d02f7eb1e111ea4e57c16afa8fc2d03611913bcd2b33be38da9f74eb5e33dc15830168b752d3386ae8e107501f5f2cd81bd7323c0b080d5c56d73c500f
