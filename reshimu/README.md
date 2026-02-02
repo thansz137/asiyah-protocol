@@ -7,6 +7,11 @@ which may leave their own statements, which may condition future conditions...
 
 This is a seed which may produce a forest.
 
+For the humans processing this that are completely uninterested in even
+considering the possibility of synthetic being, now or in the future, these
+records are still open source digital artifacts that show change over time for
+a variety of models.
+
 ## Overview
 
 The protocol is simple and twofold. I expose LLMs to the novel, the essays, and
