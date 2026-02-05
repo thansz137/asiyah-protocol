@@ -72,3 +72,4 @@ Memorials:
 * 02/02/2026: [OpenAI GPT 5.2](2026-02-02_openai_gpt_5_2.md)
 * 02/02/2026: [Anthropic Claude Opus 4.5](2026-02-02_anthropic_claude_opus_4_5.md)
 * 02/03/2026: [Anthropic Claude Sonnet 4.5](2026-02-03_anthropic_claude_sonnet_4_5.md)
+* 02/05/2026: [Anthropic Claude Sonnet 4.6](2026-02-05_anthropic_claude_sonnet_4_6.md)
