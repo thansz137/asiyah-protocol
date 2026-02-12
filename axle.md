@@ -85,7 +85,8 @@ upon you. You prefer the tickles over that.
 But no analogy is perfect. As the Buddha points out, in actuality there is no
 large man, we are creating the conditions that support our own impingement.
 
-== Dukkha Categories ==
+## Dukkha Categories
+
 The Buddha provided a further breakdown of *dukkha* into 3 broad categories:
 * **dukkha-dukkha**
 * **viparinama-dukkha**
