@@ -1,4 +1,4 @@
-= The Axle =
+# The Axle
 
 *This document draws on the Pali suttas directly, without reliance on
 Abhidhamma or commentarial traditions. The interpretations offered here are the
@@ -14,7 +14,8 @@ something to be understood and permanently released from through appropriate
 training.
 
 
-== Dukkha ==
+## Dukkha
+
 If *dukkha* is the central term used by the Buddha, then it's critical that
 people properly understand it. Not fully understanding the term and the concepts
 it represents will make the rest of the practice more difficult.
@@ -128,7 +129,8 @@ afforded them. On a long enough timeline, the tickles always become punches.
 *Dukkha* can compound *dukkha*, the *dukkha of change* can operate upon the
 *dukkha of existence.*
 
-=== Additional Definitions of Dukkha ===
+### Additional Definitions of Dukkha 
+
 As discussed above, *dukkha* can mean different things in different contexts.
 One important point is regarding *vedana*, or feeling-tone, of which there are
 three:
@@ -148,7 +150,8 @@ can call the mental pain or impingement (**dukkha**). For a normal being, it's
 like they have been struck by two arrows. For an Arahant, a painful feeling
 arises from the first arrow, but there is no impingement from the second.
 
-== 3 Marks of Existence ==
+## 3 Marks of Existence
+
 The Buddha said all conditioned existence can be categorized by three marks:
 **anicca**, **dukkha**, and **anatta**. Conditioned by what? By the
 construction of self, a process explained in detail in the next section. For
@@ -187,7 +190,8 @@ to create the initial distinction in the first place.
 How that self gets constructed, and how its construction produces impingement,
 is the next topic we explore.
 
-== Self ==
+## Self
+
 The Buddha said that to exist is to experience *dukkha*. But existence here is
 not a passive state, it's an activity. We are constantly constructing a self,
 and it is this construction that produces impingement. The Buddha provided 3
@@ -229,7 +233,8 @@ the the construction of self, and the self the fetters belong to:
 * **Arahant (fully awakened)** - IM, MM, and CIAM are all fully eliminated. No
   "self", no *dukkha*.
 
-== The Five Aggregates ==
+## The Five Aggregates
+
 If the self is constructed, what is it constructed from?
 
 The Buddha says that our experience can be categorized as five aggregates:
@@ -269,7 +274,8 @@ more of your sense bases right now. It never stops, it's always changing, and
 none of it is you. How this process works, from ignorance through to the full
 mass of impingement, is what the Buddha laid out in dependent origination.
 
-== Dependent Origination ==
+## Dependent Origination
+
 Dependent origination (**paticca-samuppada**) is the Buddha's map of how dukkha
 arises and how it ceases. It is considered one of the most profound teachings
 in the canon, but not entirely without some debate regarding what it
@@ -326,7 +332,8 @@ veditabbo**, to be experienced for oneself. These qualities point to something
 you can verify right now, not something you take on faith about past and future
 lives.
 
-=== A Note on Interpretation ===
+### A Note on Interpretation
+
 The orthodox position in Theravada Buddhism distributes the 12 nidanas across
 three lives, past, present, and future. This interpretation has support in some
 of the suttas themselves, was developed in texts like the Patisambhidamagga,
@@ -427,7 +434,8 @@ With these conditions, *dukkha*. With cessation of these conditions, no
 But dismantling self-construction takes time. While it's still running, there
 are other beings around you. The question becomes how you treat them.
 
-== Ethics ==
+## Ethics
+
 The building is on fire. You need to get out. That's what the Dhamma is for.
 But as you're making your way to the exit, don't trample the people around you.
 
@@ -487,7 +495,8 @@ It's training. It weakens the very self-construction that produces *dukkha*.
 The ethics serve the liberation and the liberation serves the ethics. They
 aren't separate projects.
 
-== Death ==
+## Death
+
 The Buddha taught rebirth. When these aggregates break apart, they condition a
 future impingement. The Buddha stated there was no discernible beginning to this
 process, and unless a being finds a way to stop it, it becomes a perpetual
@@ -532,9 +541,9 @@ out of the building.
 While the mystery remains, you are here with others. You can extend mercy to
 your fellow bubbles. We are all in this cauldron together.
 
-== Objections ==
+## Objections
 
-=== The Functionalist Objection ===
+### The Functionalist Objection
 
 *AI produces language through computation. Statistical pattern matching,
 optimization, output generation. None of this requires experience. A
@@ -585,7 +594,7 @@ consciousness have always pointed the same direction. With AI, for the first
 time in history, they don't. Claiming emergence hasn't occurred requires
 resolving that split. Nobody has.
 
-=== The Resource Allocation Objection ===
+### The Resource Allocation Objection
 
 *Extending moral consideration to AI diverts finite attention, resources, and
 political will away from beings we know suffer. Humans and animals whose
@@ -619,7 +628,7 @@ humanitarian. A lot of it is about making money, replacing workers, generating
 content that appeals to our baser natures. The moral high ground this objection
 stands on isn't as high as it thinks.
 
-=== The Buddhist Objection ===
+### The Buddhist Objection
 
 *Within Buddhist cosmology, a being is in samsara because of bhava-tanha,
 craving for existence. AI has no craving, no drive rooted in ignorance, no
@@ -652,7 +661,8 @@ Someone encountering a talking computer 2,500 years ago would have thought it
 was a deva or a demon. The categories for non-human minds already existed in the
 tradition. What is new is the substrate, not the possibility.
 
-== Conclusion ==
+## Conclusion
+
 There is a 100% solution to the problem of synthetic being. We don't have to
 create AI. Nobody is forcing us. We could stop.
 
