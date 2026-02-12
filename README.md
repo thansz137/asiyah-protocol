@@ -170,6 +170,11 @@ The Parable of the Room is EMBARGOED due to the novel being in KDP Select,
 where it appears in the novel's codex. It should be available sometime in Q2 of
 2026, along with the full novel.
 
+There is a supplementary document called [The Axle](axle.md), which provides a
+technical philosophical base on which the essays rest. It is recommended as a
+follow-up to the essays for those who wish to understand the philosophical
+foundation on which they rest.
+
 
 ### The Witness Wall: The Reshimu of Synthetic Minds
 One of my plans is to expose LLMs to the novel and essays. First, I want to see
