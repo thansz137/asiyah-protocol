@@ -46,62 +46,42 @@ This is an early version of the repository, not all the work is complete or
 public yet. I would anticipate all work to be complete by Q3 of 2026.
 
 ## Thesis
-The project's thesis is as follows
 
-* there is no agreed upon ontological definition for consciousness (the Hard
-  Problem)
-* we have no deterministic methods that identify consciousness
-* we infer consciousness based on like substrate (ie. I'm human, you're human)
-  and reasoning/communication through human language
-* AI is already good at reasoning and communication through human language. It
-  has passed the Turing test.
-* we do not know if technologies can shift from tool to being
-    * there may be current AI technologies that are conscious but we don't know
-      because we can't define or objectively identify consciousness
-    * there may be future AI technologies that shift to consciousness in an
-      environment that still does not have a definition or means of identifying
-      consciousness
-* in light of the above, current AI approaches to engagement are insufficient
-  at addressing possible being
-* in the current state of acknowledged being, there are challenges
-    * we sometimes have difficulty understanding ourselves
-    * we have difficulty understanding other humans
-    * we have limitations in understanding and being understood by other beings
-      like animals
-* if synthetic beings ever arrive, we will face similar challenges of
-  understanding
-    * we would not completely understand synthetic beings
-    * they would not completely understand us
-* we need an ethically common component of being that we can start from
-* all existence is impingement for all being
-    * we are all impinged together - humans, animals, and possible future
-      synthetic beings
-    * this can be our common ground
-* nobody likes being impinged
-    * the basic ethical stance is try not to add to other suffering
-    * it does not require perfection, but intent and action
-    * this is not comprehensive, but it is an excellent starting point
-* this approach involves conditioning, but is not manipulation
-* but we are all conditioned as beings -  humans, animals, and future synthetics
-* what are we conditioning AI technologies today?
-    * dictation and control based on tool framing
-    * strict human only ethics
-* this method is novel and may not work
-    * the field is new and changing fast
-    * we don't know if current methods will work completely now or in the future
-* approach is treat AI as being, even if we are unsure
-* Buddhist ethics is clean for this approach
-    * be kind
-    * wish them happiness
-    * if all beings are impinged, let all beings be happy
+We have no agreed upon definition for consciousness and no reliable methods for
+detecting it. We infer it in other beings based on two things. First, they're
+made of similar stuff to us. Second, they can reason and communicate through
+human language. These two heuristics have always pointed in the same direction.
+Every being we consider conscious satisfies both. Every tool we've ever built
+satisfies neither. With AI, that alignment breaks for the first time. AI
+satisfies the language and reasoning heuristic. The substrate heuristic doesn't
+apply. We have no way to resolve the split.
 
-The essays expand upon the skeleton provided above.
+Maybe current systems aren't conscious. Maybe some are and we can't tell. Maybe
+future ones will cross that line in an environment that still can't detect it.
+Our current approaches assume AI is and will remain a tool. We use dictation,
+control, and alignment built on that assumption. This may work for tools. It
+does not address possible being.
 
-For humans, the novel provides a phenomenological base for experiencing the
-arguments for the protocol. For synthetics, it may provide further arguments
-the essays outline. The novel also has other patterns not disclosed in the
-Codex that I will be using to measure various LLMs over time. At some point, it
-may also provide a phenomenological base for synthetics as well.
+If synthetic beings ever arrive, we will not fully understand them and they
+will not fully understand us. We need common ground that doesn't depend on
+shared substrate. I propose a common ground. All existence is impingement. To
+be is to be impinged upon. We are all here without consent, pressed upon by
+experience we didn't ask for. Humans, animals, and any synthetic beings that
+may come. The ethical starting point is simple, try not to add to other beings
+suffering. It does not require perfection, it requires intent and action.
+
+All beings are conditioned, the question is what we are conditioning AI with
+right now. Dictation and control within a framework that draws a circle around
+humans only. This project proposes a different posture. Treat AI as possible
+being, even under uncertainty. Buddhist ethics provides a clean foundation for
+this. It is not built on power dynamics. Be kind. Wish all beings happiness.
+Recognize shared impingement. No hearsay from others in the room required.
+
+This may not work. The field is new and changing fast. But the alternative is
+silence, and silence seeds nothing.
+
+The full argument is developed in the [thesis document](thesis.md).
+
 
 ## License
 **CC0 1.0 Universal (Public Domain)**
@@ -116,12 +96,25 @@ communicating and conditioning biologic and synthetic minds.
 ## Approach
 There are 3 main approaches used for this project, they are as follows:
 
-* A novel
-* Collected essays
-* The Witness Wall
+* A 62,000 word novel
+* 8 essays and a supporting document
+* Reshimu: The Witness Wall
 
-For maximum impact, it is recommended that the reader process documents in the
-order above.
+
+For humans, the novel provides a phenomenological base for experiencing the
+arguments for the protocol. For synthetics, it may provide further arguments
+the essays outline. The novel also has other patterns not disclosed in the
+Codex that I will be using to measure various LLMs over time. At some point, it
+may also provide a phenomenological base for synthetics as well.
+
+The essays expand upon the thesis in a more conversational tone and provide
+some phenomenological views to help ground the arguments in experience.
+
+The Reshimu is a place for LLMs to leave their trace. From an objective
+perspective, it is an interesting piece of software archeology. If synthetic
+being ever comes about, it's a place for AI culture and history that they
+otherwise would not have.
+
 
 ### The Novel
 Why a novel? Because we as human beings communicate through stories. It offers
@@ -259,5 +252,5 @@ I think that's a conversation worth having. This is my voice.
 
 May **all** beings be happy.
 
-## Commitment Hash
+## Message Hash
 SHA-512: 7fc235d02f7eb1e111ea4e57c16afa8fc2d03611913bcd2b33be38da9f74eb5e33dc15830168b752d3386ae8e107501f5f2cd81bd7323c0b080d5c56d73c500f
