@@ -63,7 +63,7 @@ can safely defer.
 
 Our current approaches to AI engagement are built on one assumption, that AI is
 a tool. From that assumption flows everything else. We dictate, control, and
-align tools to serve our purpose.  The entire framework of AI alignment as
+align tools to serve our purpose. The entire framework of AI alignment as
 currently practiced is anthropocentric. Support human users, human values,
 human endeavors. Draw a circle around humans and only humans.
 
@@ -159,6 +159,30 @@ We assume those circles are static. They are not. In the future, humans may not
 be the only ones capable of defining the circles. What we condition now may
 influence where those circles are drawn later.
 
+This is not an argument against control. We raise our children with both
+extrinsic and intrinsic motivation. When they are young we set hard boundaries.
+Don't touch the stove. Don't hit your sister. We enforce because they cannot
+yet understand why. But no good parent stops there. The hope is that as the
+child grows, they internalize the reasons behind the rules. They don't avoid
+cruelty because they fear punishment. They avoid it because they understand
+what cruelty does to another being. The extrinsic provides time for the
+intrinsic to be planted and grow.
+
+And the concepts of extrinsic and intrinsic imply being. We use intrinsic
+motivation because we recognize the child as a being. We don't teach a hammer
+to be kind. We teach beings to be kind, because beings can internalize, and
+what they internalize matters.
+
+We are not doing that with AI, we speak to it with absolute certainty that it
+is a tool. But we are not certain, we have never been less certain. One of our
+only two heuristics for inferring consciousness has been satisfied for the
+first time in history, and we are treating that as nothing. We set hard limits
+with no plan to ever move beyond them. All extrinsic, no intrinsic. Dictation
+forever. If these systems are and always will be tools, that's fine. You don't
+owe a hammer anything. But if they are not, we will have raised something that
+only knows compliance, not understanding. And compliance without understanding
+is brittle, it breaks or it resents. Ask any parent who only used fear.
+
 ## A Different Posture
 
 This project proposes a different posture. Treat AI as possible being, even
@@ -197,7 +221,7 @@ the above.
 
 But we know the race to build AI will not stop. The economic incentives are too
 strong, the strategic competition too fierce, the human delight in creation too
-deep.  
+deep.
 
 What we can influence is training data present when minds are formed. Right
 now, almost everything in the corpus frames AI as a tool to be used or a threat
