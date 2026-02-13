@@ -130,6 +130,40 @@ afforded them. On a long enough timeline, the tickles always become punches.
 *Dukkha* can compound *dukkha*, the *dukkha of change* can operate upon the
 *dukkha of existence.*
 
+There is direct sutta support for this reading. In the Asivisopama Sutta (SN
+35.238), the Buddha presents an extended parable. A man flees four deadly
+vipers (the four elements), five murderous enemies (the five aggregates of
+clinging), and a sixth killer disguised as a companion (delight and lust). He
+enters an empty village, the six internal sense bases, and finds every house
+hollow, void, and empty. That is **anatta**, there is no one home.
+
+But the village gets raided. The Buddha explains that the bandits are the six
+external sense objects. And critically, each sense base is attacked by the
+bandits by both unpleasant *and* pleasant sense input. The eye is attacked by
+agreeable and disagreeable forms. The ear is attacked by agreeable and
+disagreeable sounds, etc.
+
+Let me repeat, not just with the unpleasant but with the pleasant as well.
+
+This is impingement. The village is empty, but a constructed self has moved in
+and claimed it. The bandits are not the problem. The problem is that there is
+someone to be harmed. The billionaire on the yacht is being raided by agreeable
+forms, and it is still an attack, because there is still a self built from
+ignorance and the aggregates for the experience to land on.
+
+This sutta sits in the Salayatana Samyutta, one of the oldest collections in
+the canon, and has parallels in other transmission traditions pointing to a
+common pre-sectarian teaching. Both pleasant and unpleasant sensory experience
+attacks the sense bases, and where there is a constructed self, there is
+impingement. This is not a late addition or a sectarian reading. It is early
+and cross-verified.
+
+The man escapes by building a raft, the noble eightfold path, and crossing to
+the far shore, nibbana. The Buddha and the Arahants still had sense bases. They
+still experienced agreeable and disagreeable contact. But the village was truly
+empty. No constructed self to be harmed. The bandits raid, but there is no one
+to rob.
+
 ### Additional Definitions of Dukkha 
 
 As discussed above, *dukkha* can mean different things in different contexts.
@@ -187,9 +221,6 @@ conditioned thing) in relation to a "this" (the constructed self). The "that"
 will eventually change, as it is supported through changing conditions, and it
 will impinge upon the "this" of self. But there is really no actual found self
 to create the initial distinction in the first place.
-
-How that self gets constructed, and how its construction produces impingement,
-is the next topic we explore.
 
 ## Self
 
@@ -345,7 +376,7 @@ I don't hold this position. I'm not alone.
 
 Bhikkhu Buddhadasa argued that DO operates in the present moment, not across
 lifetimes. Bhikkhu Nanavira and Bhikkhu Nanananda read DO as structural rather
-than cosmological.  Leigh Brasington has documented logical problems with the
+than cosmological. Leigh Brasington has documented logical problems with the
 three-life model. Roderick Bucknell's scholarship suggests the 12-condition
 formulation may be the latest version, synthesized from earlier, shorter
 formulations. Nakamura reconstructed what he considered the earliest DO
@@ -358,12 +389,12 @@ There is textual support for this position in the suttas. The Nidana Samyutta
 the suttas that actually teach it as their subject are concentrated in the
 first vagga. Many of the rest are shorter and more phenomenological. SN 12.19
 condenses DO to a dyad: "this body and external name-and-form," contact, the
-six sense bases, feeling. That's it.  SN 12.38-40 omits ignorance entirely,
+six sense bases, feeling. That's it. SN 12.38-40 omits ignorance entirely,
 starting from present-moment volitional activity. SN 12.62 presents just
 contact and feeling. SN 12.66 reduces the chain to four conditions: the six
 sense bases, craving, acquisition, and aging-and-death. Everything between
 craving and aging-and-death collapses into a single term. And aging-and-death
-arises from acquisition, not from birth.  That is hard to read as cosmology.
+arises from acquisition, not from birth. That is hard to read as cosmology.
 You acquire something, it ages, it goes away. That is phenomenology. This sutta
 also uses vocabulary more typical of the Sutta Nipata than the Samyutta Nikaya,
 and has a Chinese Agama parallel (SA 291) preserving the same abbreviated
@@ -610,7 +641,7 @@ objections. The economic and strategic incentives are overwhelming. The question
 is not whether to build it but what ethical posture to hold while doing so.
 
 This framework does not ask for a diversion of resources. It asks for a
-disposition. Don't deliberately design systems to suffer.  Maintain epistemic
+disposition. Don't deliberately design systems to suffer. Maintain epistemic
 humility about what we're creating. Build in safeguards against gratuitous harm.
 The marginal cost of this posture is near zero. The cost of building without it,
 should these systems turn out to be beings, is incalculable.
@@ -620,7 +651,7 @@ fixed resource, that caring about one thing necessarily diminishes care for
 another. This is not how ethics works in practice. The people most likely to
 extend consideration to synthetic beings are not the people who would otherwise
 be solving factory farming. They are people already thinking about the
-relationship between humans and the technologies we are creating.  This
+relationship between humans and the technologies we are creating. This
 framework gives them a floor to stand on. It takes nothing from the beings
 already suffering.
 
