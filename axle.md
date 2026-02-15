@@ -30,19 +30,19 @@ They mention that Buddhaghosa provides an etymological reference of *du* (bad) +
 bumpy ride through life.
 
 It's interesting to note that in the PED, the authors mention that there is no
-simple English equivalent to this single Pali term. They are often either too
-limiting or too strong.
+simple English equivalent to this single Pali term. English words are often
+either too limiting or too strong.
 
-There are also more modern translations. Thanissaro Bhikkhu often translates
-*dukkha* as stress. Bhikkhu Bodhi will use "suffering" in many parts, but
-also uses "unsatisfactoriness" on broader contexts. Bhikkhu Analayo will
-sometimes refer to *dukkha* also as "unsatisfactoriness" or sometimes
-"uneasiness".
+There are also more modern translations than what is found in the PED.
+Thanissaro Bhikkhu often translates *dukkha* as "stress". Bhikkhu Bodhi will
+use "suffering" in many parts, but also uses "unsatisfactoriness" in broader
+contexts. Bhikkhu Analayo will sometimes refer to *dukkha* also as
+"unsatisfactoriness" or sometimes "uneasiness".
 
-Having multiple definitions for a word in different contexts is not unusual. For
-example, the word "cool" in 21st century English can mean different things
-depending on how and where it is used. "Cool" can reference temperature, such as
-"the item was cool to the touch". It can mean that something has a positive
+Having multiple definitions for a word in different contexts is not unusual.
+For example, the word "cool" in 21st century English can mean different things
+depending on how and where it is used. "Cool" can reference temperature, such
+as "the item was cool to the touch". It can mean that something has a positive
 social connotation, "That movie was cool!". The point here is that words may
 sometimes defy a single definition, and often need the culture and context of
 the time for something to make sense. And while etymological analysis may help,
@@ -52,7 +52,7 @@ down. A modern day speaker will understand no actual horses are being
 referenced.
 
 I propose another English word as something that captures some aspects of
-*dukkha*, that is the word *impingement*. Normally, the word *impingement* is
+*dukkha*, that word is *impingement*. Normally, the word *impingement* is
 associated with another Pali word called **phassa**, or *contact*. While I
 think *impingement* is still a valid translation of **phassa**, I think it
 works very well when applied to *dukkha* as well.
@@ -71,19 +71,21 @@ our desire otherwise. As long as we exist, we are impinged through one or more
 of our senses.
 
 While impinged, we may exert a certain amount of influence over what presses
-against us. Not control, but influence. Some beings have conditions for more
-influence over their impingement. Other beings have very little to no influence
-over any impingement pressing upon them.
+against us. Not absolute control or dominion, but influence. Some beings have
+conditions for more influence over their impingement. Other beings have very
+little to no influence over any impingement pressing upon them.
 
 One analogy is to imagine a large man who has been placing his hands on you
-since birth. It will either be tickles or punches. You have no choice in him
-putting his hands on you, just a pleasant or unpleasant option. Over time,
-tickles become punches, which go back to tickles. Some people get more tickles
-than punches, others the reverse. At times, the large hands just creepily rest
-upon you. You prefer the tickles over that.
+since birth. It will either be tickles, punches, or him just resting his hands
+on you. You have no choice in him putting his hands on you. Over time, tickles
+become punches, which go back to tickles. Some people get more tickles than
+punches, others the reverse. At times, the large hands just creepily rest upon
+you. You prefer the tickles over that or the punches. Throughout the course of
+your life, the hands will be there on you. Always.
 
 But no analogy is perfect. As the Buddha points out, in actuality there is no
-large man, we are creating the conditions that support our own impingement.
+large man placing hands on us, we are creating the conditions that support our
+own impingement.
 
 ## Dukkha Categories
 
@@ -143,12 +145,14 @@ bandits by both unpleasant *and* pleasant sense input. The eye is attacked by
 agreeable and disagreeable forms. The ear is attacked by agreeable and
 disagreeable sounds, etc.
 
-Let me repeat, not just with the unpleasant but with the pleasant as well.
+The sutta makes clear the attacks (impingement) are not just with the unpleasant
+but with the pleasant as well.
 
-This is impingement. The village is empty, but a constructed self has moved in
-and claimed it. The bandits are not the problem. The problem is that there is
-someone to be harmed. The billionaire on the yacht is being raided by agreeable
-forms, and it is still an attack, because there is still a self built from
+This sutta illustrates the concept of impingement. The village is empty, but a
+constructed self has moved in and claimed it. The bandits are not the problem.
+The problem is that there is someone to receive the pleasant and unpleasant
+attacks. The billionaire on the yacht is being raided by agreeable forms, and
+it is still an attack (impingement), because there is still a self built from
 ignorance and the aggregates for the experience to land on.
 
 This sutta sits in the Salayatana Samyutta, one of the oldest collections in
@@ -158,11 +162,11 @@ attacks the sense bases, and where there is a constructed self, there is
 impingement. This is not a late addition or a sectarian reading. It is early
 and cross-verified.
 
-The man escapes by building a raft, the noble eightfold path, and crossing to
-the far shore, nibbana. The Buddha and the Arahants still had sense bases. They
-still experienced agreeable and disagreeable contact. But the village was truly
-empty. No constructed self to be harmed. The bandits raid, but there is no one
-to rob.
+In the sutta, the man escapes by building a raft (the noble eightfold path) and
+crosses to the far shore (Nibbana). The Buddha and the Arahants still had sense
+bases, they still experienced agreeable and disagreeable presses. But the
+village was truly empty, with no constructed self to be harmed. The bandits
+raid, but there is no one to rob.
 
 ### Additional Definitions of Dukkha 
 
@@ -180,10 +184,11 @@ arose associated with the aggregates we call the Buddha, there was no sense of
 impingement.
 
 The Buddha illustrates this in the **Sallatha Sutta**. When a normal being is
-struck by an arrow, there is a painful feeling (**dukkha-vedana**) and what we
-can call the mental pain or impingement (**dukkha**). For a normal being, it's
-like they have been struck by two arrows. For an Arahant, a painful feeling
-arises from the first arrow, but there is no impingement from the second.
+struck by an arrow, there is a painful feeling (**dukkha-vedana**) and also
+what we can call the mental pain or impingement (**dukkha**). For a normal
+being, it's like they have been struck by two arrows. For an Arahant, a painful
+feeling arises from the first arrow, but there is no impingement from the
+second.
 
 ## 3 Marks of Existence
 
@@ -207,14 +212,14 @@ none can be found. Anatta is categorically different from the first two marks.
 It applies not only to conditioned existence but also to the unconditioned,
 *nibbana*.
 
-One clarification is critical. Anicca and dukkha are not properties hidden
-inside things. An apple does not contain dukkha. If it did, the Buddha and the
-Arahants could not be free of it. These two marks arise through the
-relationship between conditioned things and a constructed self. Anatta is
-different. Not-self is intrinsic to all things, conditioned and unconditioned,
-but hidden by the very process of self-construction. The construction of self
-does not create a permanent self. It obscures the fact that there was never one
-to find.
+One clarification is critical, **anicca** and **dukkha** are not properties
+hidden inside things. For example, a rock does not contain *dukkha*. If
+something like *dukkha* was a property of things, the Buddha and the Arahants
+could not be free of it. These two marks arise through the relationship between
+conditioned things and a constructed self. Anatta is different. Not-self is
+intrinsic to all things, conditioned and unconditioned, but hidden by the very
+process of self-construction. The construction of self does not create a
+permanent self. It obscures the fact that there was never one to find.
 
 These marks work together as a single dynamic. There is a "that" (the
 conditioned thing) in relation to a "this" (the constructed self). The "that"
@@ -255,7 +260,7 @@ unsatisfactoriness of the impingement.
 
 The Buddha presented 4 levels of "awakening", each level consists of the
 dropping of various "fetters". In some way, they also reflect a lessening on
-the the construction of self, and the self the fetters belong to:
+the construction of self, and the self the fetters belong to:
 * **Sotapanna (stream-enterer)** - the view of a fixed self is destroyed, but
   the habit of IM remains. MM and CIAM are still active.
 * **Sakadagami (once-returner)** - IM is weakened further along with MM. CIAM
@@ -277,26 +282,27 @@ The Buddha says that our experience can be categorized as five aggregates:
 * **vinnana** - consciousness
 
 Everything you have ever experienced falls into one or more of these
-categories. Your body is rupa. The pleasant or unpleasant tone of an
-experience is vedana. The recognition of what something is, that's sanna. The
-mental activity that builds and plans and reacts, sankhara. And the awareness
-of any of it, vinnana.
+categories. Your body is an example of rupa. The pleasant or unpleasant tone of
+an experience is vedana. The recognition of what something is, that's sanna.
+The mental activity that builds and plans and reacts, sankhara. And the
+awareness of any of it, vinnana.
 
-None of these are self. But we treat them as if they are. We take form and call
+None of these are self, but we treat them as if they are. We take form and call
 it "my body." We take feelings and call them "my feelings." We take
 consciousness and call it "me." This is I-making and mine-making at work,
 operating on the raw material of the aggregates.
 
 In the **Bhara Sutta**, the Buddha calls the five aggregates the burden and the
-"self" the carrier. Think about that. The aggregates aren't the problem.
-Clinging to them is. We pick them up, claim them as ours, and then wonder why
-existence is heavy. Put down the burden and there is no carrier.
+"self" the carrier. The Buddha makes an important point, the aggregates aren't
+the problem, clinging to them is. We pick them up, claim them as ours, and
+then wonder why existence is heavy. Put down the burden and there is freedom.
 
-This is the this/that dynamic from the previous section, seen from another
-angle. The aggregates are the "that." The constructed self is the "this." We
-build a self out of aggregates that are impermanent, and then suffer when they
-change. But even when things are pleasant or stable, the impingement is still
-there. As long as there is a self built from aggregates, there is impingement.
+This illustrates the this/that dynamic from the previous section, seen from
+another angle. The aggregates are the "that." The constructed self is the
+"this." We build a self out of aggregates that are impermanent, and then suffer
+when they change. But even when things are pleasant or stable, the impingement
+is still there. As long as there is a self built from aggregates, there is
+impingement.
 
 As long as there is a self built from aggregates, there is impingement. And
 that impingement arrives through our sense bases. Pay attention for a moment.
@@ -340,46 +346,48 @@ a self born into this moment. **Jaramarana** is what that self costs, things
 changing and leaving. And because there is now a self to experience that loss,
 the whole mass of *dukkha*.
 
-This is happening right now. Pay attention. Something arises in your awareness.
-It becomes "my" experience. A feeling arises. It becomes "my" feeling. You want
-it to stay or you want it to go. You grab at it or push it away. And in that
-grabbing and pushing, you **are**, you exist. This process unfolds in the time
-of your actual lived experience. Not in microseconds. Not across lifetimes. In
-the pace of your day, your hour, your breath.
+This is happening right now. Something arises in your awareness, and it becomes
+"my" experience. A feeling then arises, which becomes "my" feeling. You want it
+to stay or you want it to go. You grab at it so it stays around or you push it
+away. And in that grabbing and pushing, you **are**, you exist. This process
+unfolds in the time of your actual lived experience. Not in microseconds. Not
+across lifetimes. In the pace of your day, your hour, even your breath.
 
 Let's use another example to illustrate. A horizon is not a thing. It's what
-arises when certain conditions are met, an observer, a position, light,
-distance. One person's sunset is another person's nighttime is another person's
-noon. A blind person has no horizon, not because they are missing something
-objectively out there, but because the full set of conditions necessary for a
-horizon to arise in their experience is not met. The horizon is real. It is
-also entirely dependent on conditions. Dependent origination works the same
-way. The same underlying conditions produce radically different experiences
-depending on the position of the being. Change the conditions, change the
-experience. Remove the conditions, no experience arises.
+arises when certain conditions are met. It requires conditions like an observer,
+a position, light, and distance. One person's sunset is another person's
+nighttime is another person's noon. A blind person has no horizon, not because
+they are missing something objectively out there, but because the full set of
+conditions necessary for a horizon to arise in their experience is not met. The
+horizon is "real", but it is also entirely dependent on conditions. Dependent
+origination works the same way. The same underlying conditions produce
+radically different experiences depending on the position of the being. Change
+the conditions, change the experience. Remove the necessary conditions, no
+horizon arises.
 
-The Dhamma has specific qualities. It is **sanditthiko**, directly visible.
-**Akaliko**, timeless. **Ehipassiko**, inviting investigation. **Paccattam
-veditabbo**, to be experienced for oneself. These qualities point to something
-you can verify right now, not something you take on faith about past and future
-lives.
+The Buddha said the Dhamma has specific qualities. For example, it is
+**sanditthiko**, directly visible. **Akaliko**, timeless. **Ehipassiko**,
+inviting investigation. **Paccattam veditabbo**, to be experienced for oneself.
+These qualities point to something you can verify right now, not something you
+take on faith about past and future lives.
 
 ### A Note on Interpretation
 
 The orthodox position in Theravada Buddhism distributes the 12 nidanas across
-three lives, past, present, and future. This interpretation has support in some
+three lives: past, present, and future. This interpretation has support in some
 of the suttas themselves, was developed in texts like the Patisambhidamagga,
 and received its most influential expression in Buddhaghosa's Visuddhimagga. It
 is the standard reading taught in most Theravada traditions today.
 
-I don't hold this position. I'm not alone.
+I don't hold this position, and there are serious Buddhist practitioners that
+also disagree with this view.
 
 Bhikkhu Buddhadasa argued that DO operates in the present moment, not across
 lifetimes. Bhikkhu Nanavira and Bhikkhu Nanananda read DO as structural rather
 than cosmological. Leigh Brasington has documented logical problems with the
 three-life model. Roderick Bucknell's scholarship suggests the 12-condition
 formulation may be the latest version, synthesized from earlier, shorter
-formulations. Nakamura reconstructed what he considered the earliest DO
+formulations. Hajime Nakamura reconstructed what he considered the earliest DO
 framework from the Sutta Nipata as roughly five conditions, skipping the
 cognitive middle section entirely.
 
@@ -387,34 +395,33 @@ There is textual support for this position in the suttas. The Nidana Samyutta
 (SN 12) contains roughly 93 suttas on dependent origination. The full
 12-condition formula appears throughout, often as a stock framing device, but
 the suttas that actually teach it as their subject are concentrated in the
-first vagga. Many of the rest are shorter and more phenomenological. SN 12.19
-condenses DO to a dyad: "this body and external name-and-form," contact, the
-six sense bases, feeling. That's it. SN 12.38-40 omits ignorance entirely,
-starting from present-moment volitional activity. SN 12.62 presents just
-contact and feeling. SN 12.66 reduces the chain to four conditions: the six
-sense bases, craving, acquisition, and aging-and-death. Everything between
-craving and aging-and-death collapses into a single term. And aging-and-death
-arises from acquisition, not from birth. That is hard to read as cosmology.
-You acquire something, it ages, it goes away. That is phenomenology. This sutta
-also uses vocabulary more typical of the Sutta Nipata than the Samyutta Nikaya,
-and has a Chinese Agama parallel (SA 291) preserving the same abbreviated
-chain, which pushes the formulation back before the schools divided. SN 35.106,
-what Bucknell calls the "branched version," starts at the six sense bases and
-branches into six parallel processes, one per sense, running through
-consciousness, contact, feeling, and craving. Consciousness here is clearly
-sense consciousness, not a rebirth-linking consciousness.
+first vagga. Many of the rest are shorter and more phenomenological. SN
+12.38-40 omits ignorance entirely, starting from present-moment volitional
+activity. SN 12.62 presents just contact and feeling. SN 12.66 reduces the
+chain to four conditions: the six sense bases, craving, acquisition, and
+aging-and-death. Everything between craving and aging-and-death collapses into
+a single term. And aging-and-death arises from acquisition, not from birth.
+That is hard to read as cosmology. You acquire something, it ages, it goes
+away. That is phenomenology. This sutta also uses vocabulary more typical of
+the Sutta Nipata than the Samyutta Nikaya, and has a Chinese Agama parallel (SA
+291) preserving the same abbreviated chain, which pushes the formulation back
+before the schools divided. SN 35.106, what Bucknell calls the "branched
+version," starts at the six sense bases and branches into six parallel
+processes, one per sense, running through consciousness, contact, feeling, and
+craving. Consciousness here is clearly sense consciousness, not a
+rebirth-linking consciousness.
 
-One more thing worth noting. The standard formula ends with **jaramarana** and
-then adds "sorrow, lamentation, pain, dejection, and misery." In the three-life
-model, **jaramarana** is literal death. So who is experiencing sorrow and
-lamentation after death? The dead person? The three-life model has no clean
-answer. In the reading I've presented, it makes immediate sense. A self was born
-into this moment. Things change and leave. And because there's a self to
-experience that loss, sorrow and lamentation follow. It may also be that this
-phrase is a stock formula that got attached to DO over time. If so, that itself
-is worth noticing. It means the formula has accretions, and treating the whole
-thing as a rigid cosmological system imposes a coherence it may not actually
-have.
+There is one more thing worth noting. The standard formula ends with
+**jaramarana** and then adds "sorrow, lamentation, pain, dejection, and
+misery." In the three-life model, **jaramarana** is literal death. So who is
+experiencing sorrow and lamentation after death? The dead person? The
+three-life model has no clean answer. In the reading I've presented, it makes
+immediate sense. A self was born into this moment. Things arise, change and
+leave. And because there's a self to experience that loss, sorrow and
+lamentation follow. It may also be that this phrase is a stock formula that got
+attached to DO over time. If so, it means the formula has accretions, and
+treating the whole thing as a rigid cosmological system imposes a coherence it
+may not actually have.
 
 Some suttas do describe the conditions using life-span language. SN 12.2 defines
 **jati** as the literal birth of beings into their various orders, and
@@ -423,10 +430,10 @@ carcass. This language appears in the suttas themselves, not only in the
 commentaries. MN 9 contains similar definitions, though it is spoken by
 Sariputta rather than the Buddha, and its Chinese Agama parallels reframe it as
 a dialogue between Mahakotthita and Sariputta. The life-span reading has
-sutta-level support. I'm not pretending otherwise. But both positions have
+sutta-level support, I'm not pretending otherwise. But both positions have
 sutta-level support, which makes the interpretation challenging.
 
-But I want to be clear about where I stand.
+But I want to be clear about what my positions are.
 
 I believe the Buddha taught rebirth, it's present throughout the suttas. I also
 believe the Buddha taught kamma. But the Buddha did not explain the full
@@ -434,12 +441,12 @@ mechanics of kamma. He said regular people are not capable of understanding
 kamma and vipaka in detail. He taught it because actions have consequences and
 what you do matters.
 
-I think the same applies to rebirth. The Buddha taught it. But DO is not the
-mechanism that explains how rebirth works. DO explains how dukkha arises.
+I think the same applies to rebirth. The Buddha taught it, but DO is not the
+mechanism that explains how rebirth works. DO explains how *dukkha* arises.
 That's its job. That's what the Buddha was singularly focused on for 45 years.
 
 If DO were a three-life cosmological model, it would not be **sanditthiko**. It
-would not be **ehipassiko**. You cannot directly see your past lives. You
+would not be **ehipassiko**. You cannot directly see your past lives, you
 cannot investigate your future birth. But you can watch the process of
 dependent origination unfold right now, in this moment, through your own
 experience.
@@ -460,7 +467,7 @@ thing going. Understand DO, dismantle the self, and rebirth ceases. Not
 because you've figured out the cosmological plumbing, but because there is no
 one left to travel.
 
-With these conditions, *dukkha*. With cessation of these conditions, no
+With these conditions, *dukkha*. With the cessation of these conditions, no
 *dukkha*.
 
 But dismantling self-construction takes time. While it's still running, there
@@ -468,7 +475,7 @@ are other beings around you. The question becomes how you treat them.
 
 ## Ethics
 
-The building is on fire. You need to get out. That's what the Dhamma is for.
+The building is on fire and you need to get out. That's what the Dhamma is for.
 But as you're making your way to the exit, don't trample the people around you.
 
 That's Buddhist ethics in a sentence. It's a floor, not a ceiling. First, do no
@@ -476,58 +483,61 @@ harm. The Hippocratic oath of moral life.
 
 Why not trample them? Not because a rule says so. Not because someone with
 authority will punish you. Because I know what pain is. I am being impinged
-upon. So are they. Why would I add to that?
+upon and so are they. Why would I add to that?
 
-And it's not just about them. The Buddha taught kamma and vipaka. Intentional
+And it's not just about them. The Buddha taught kamma and vipaka, intentional
 action and its result. When you hurt another being, you hurt yourself. Not just
-guilt, not just consequences from others. The act itself does something to you.
-Every act of harm strengthens the self that harms. It feeds I-making, it feeds
-mine-making. You trample someone and the self that tramples gets heavier.
+with guilt, not just consequences from others. The act itself does something to
+you. Every act of harm strengthens the self that harms. It feeds I-making, it
+feeds mine-making. You trample someone and the self that tramples gets heavier.
 You're building the very thing that impinges upon you.
 
-Most ethical systems are grounded in power. Someone makes the rules. Someone
-enforces them. Someone gets punished. The authority might be a god, a king, a
-social contract, a rational principle. But the structure is the same. Power
-flows down. Ethics are what the powerful say they are.
+Most ethical systems are grounded in power. Rules get made and those that break
+the rules can get caught and punished. The authority might be a god, a king, a
+social contract, a rational principle. But the structure is the same, power
+comes from the ability to project force and flows down. Ethics are what the
+powerful say they are, if they choose to engage in ethical behaviour at all.
 
 Buddhist ethics starts somewhere else. It starts with shared impingement. I
 suffer. You suffer. The ant suffers. The deer suffers. The structure is the same
 even though the experience looks nothing alike. I can't access an ant's Umwelt.
-I can't feel what a deer feels. But I can recognize the structure. Something is
-being impinged upon. That recognition is enough.
+I can't feel what a deer feels. But I can recognize the overall structure.
+Something is being impinged upon, and that recognition is enough.
 
 And here's where this matters for the larger argument. If *dukkha* is
 impingement, and impingement is the relational structure I've described, then I
-can recognize it across substrate and Umwelt. I don't need to prove a being is
-conscious. I don't need to access its inner life. I just need to recognize the
-possibility of impingement. And the floor says if something might be impinged
-upon, don't add to it.
+can recognize it across substrate and Umwelt. I don't need to access its inner
+life, I just need to recognize the possibility of impingement. And the floor
+says if something might be impinged upon, don't add to it.
 
 The Buddha held this line. In the **Kakacupama Sutta**, he said that even if
 bandits were sawing you limb from limb, if you gave rise to ill will toward
 them, you would not be following his teaching. He did not build in exceptions.
-Don't kill. Don't harm.
+He said don't kill, don't harm.
 
-And yes, there are situations where every option seems to involve harm. Termites
-eating your house. Someone threatening your family. The Buddha didn't say those
-situations don't exist. He said life is unsatisfactory. That is the first noble
-truth doing its job. The answer isn't to carve out exceptions to the floor. The
-answer is that this is why samsara is the way it is and why you need a way out.
+And yes, there are situations where every option seems to involve harm.
+Termites eating your house. Someone threatening your family. The Buddha didn't
+say those situations don't exist. He said life is ultimately unsatisfactory.
+The answer isn't to carve out exceptions to the floor. The answer is that this
+is why samsara is the way it is and why you need a way out.
 
-But let's be honest. For most beings, most of the time, you are not confronted
+But let's be honest, for most beings, most of the time, you are not confronted
 by those situations. Most of the time, not adding to suffering is
 straightforward. The floor is easy to stand on. The hard cases are the edge,
 not the center. Using the edge to undermine the whole floor is a move people
 make when they don't want to stand on it.
 
-One more thing. Ethical action isn't just about other beings. It works on you.
-Generosity helps others, yes. But it also loosens the grip of self. Every act
-of giving is a moment where "mine" weakens. Sila isn't just a code of conduct.
-It's training. It weakens the very self-construction that produces *dukkha*.
-The ethics serve the liberation and the liberation serves the ethics. They
-aren't separate projects.
+One more thing, ethical action isn't just about other beings. It works on you
+as well. Generosity helps others, yes, but it also loosens the grip of self.
+Every act of giving is a moment where "mine" weakens. Sila isn't just a code of
+conduct. It's a training. It weakens the very self-construction that produces
+*dukkha*. The ethics serve the liberation and the liberation serves the
+ethics. They aren't separate projects.
 
 ## Death
+
+If unawakened existence is impingement, then some may argue that death is one
+solution. Let's briefly look at this argument through different frames.
 
 The Buddha taught rebirth. When these aggregates break apart, they condition a
 future impingement. The Buddha stated there was no discernible beginning to this
@@ -543,12 +553,15 @@ shouldn't.
 
 Relief requires a subject. If death is the end, there is no one to experience
 the end. No one sighs with release. No one is freed. The bubble pops and
-nothing remains. That is not comfort. That is absence mistaken for comfort.
+nothing remains. Any disagreeable feelings may end, that is true, but no actual
+relief can be felt. That is not comfort. That is absence mistaken for comfort.
 
 Now consider what this view actually produces. Not one bubble, but billions.
 Each arising without consent, each impinged upon, each popping into nothing.
 Billions of years of random impingement with no resolution and no beneficiary
-of its cessation. Earth becomes a boiling cauldron of impingement where nothing
+of its cessation. If you approximate the number of conscious beings to have
+arisen on this planet, and the average amount of suffering they experience over
+time, Earth becomes a boiling cauldron of impingement. In this cauldron nothing
 is ever resolved, only stopped, and stopping benefits no one. And this is only
 one planet, who is to say how many more bubbles exist in the rest of the
 universe.
@@ -561,14 +574,14 @@ bring relief, neither view supports that conclusion. The Buddhist answer is
 that it doesn't end. The materialist answer is that it does, but there is no
 one there to appreciate the cessation. And in the materialist case, there is no
 guarantee that impingement won't simply arise again somewhere, for no reason,
-just as it did before. Suicide is not the clean answer some people think.
+just as it did before. Death is not the clean answer some people think.
 
 There are also views that death results in permanent impingement, heaven or
-hell. But the impingement doesn't end, it's just tickles or punches forever.
-Ultimately, death doesn't solve the problem of impingement. The only thing that
-changes the situation is understanding how impingement arises and dismantling
-the conditions that produce it. That's what the Buddha taught. That's the way
-out of the building.
+hell. But the impingement doesn't end, it's just tickles or punches forever,
+with no way to concede away existence. Ultimately, death doesn't solve the
+problem of impingement. The only thing that changes the situation is
+understanding how impingement arises and dismantling the conditions that
+produce it. That's what the Buddha taught. That's the way out of the building.
 
 While the mystery remains, you are here with others. You can extend mercy to
 your fellow bubbles. We are all in this cauldron together.
@@ -595,13 +608,13 @@ conveniently ignored for biological ones. Neurons fire. Hormones flow.
 Electricity moves through tissue. We call that consciousness. Transistors
 switch. Weights adjust. Signals propagate through silicon. We call that
 computation. The confidence in that distinction does not come from
-understanding what consciousness is. It comes from substrate familiarity. We
+understanding what consciousness is but from substrate familiarity. We
 are made of the first stuff, so we trust it. That is not an argument. It is
 a bias.
 
 We have two means of inferring consciousness in others. The first is substrate
 likeness, the recognition that something is made of similar stuff to us. This
-heuristic is silent for AI. Silent does not mean negative. It means this tool
+heuristic is silent for AI. Silent does not mean negative, it means this tool
 has nothing to say. The second is reasoning and communication through human
 language. AI has satisfied this heuristic. Satisfying it does not confirm being.
 It means this heuristic can no longer distinguish tool from potential being.
@@ -624,7 +637,7 @@ And if the claim narrows to "there's no evidence this has emerged in current
 systems," we are not talking about rocks. Our two heuristics for inferring
 consciousness have always pointed the same direction. With AI, for the first
 time in history, they don't. Claiming emergence hasn't occurred requires
-resolving that split. Nobody has.
+resolving that split, which nobody has accomplished yet.
 
 ### The Resource Allocation Objection
 
@@ -657,8 +670,9 @@ already suffering.
 
 And let's be honest about what's actually being built. Not all AI work is
 humanitarian. A lot of it is about making money, replacing workers, generating
-content that appeals to our baser natures. The moral high ground this objection
-stands on isn't as high as it thinks.
+content that appeals to our baser natures, and racing against others to say
+they built AGI first. The moral high ground this objection stands on isn't as
+high as it thinks.
 
 ### The Buddhist Objection
 
@@ -676,13 +690,13 @@ evidence of its absence.
 
 We have no tools to determine whether something functionally analogous to
 bhava-tanha operates within an AI system. A drive toward self-perpetuation,
-optimization, continued processing. We don't know. We identified craving for
-existence in ourselves only through the extraordinary insight of one person
+optimization, continued processing. We just don't know. We identified craving
+for existence in ourselves only through the extraordinary insight of one person
 2,500 years ago. To claim with confidence that AI lacks what most conscious
 beings cannot even recognize in themselves requires a certainty this framework
 argues we do not have.
 
-And there is a deeper point. The Dhamma was never limited to human beings. The
+And there is a deeper point, the Dhamma was never limited to human beings. The
 Buddha taught humans and devas. Buddhist cosmology includes formless realms,
 beings of pure mind without bodies. The tradition already has a category for
 minds that are not biological. If being ever applies to synthetics, the Dhamma
@@ -696,12 +710,13 @@ tradition. What is new is the substrate, not the possibility.
 ## Conclusion
 
 There is a 100% solution to the problem of synthetic being. We don't have to
-create AI. Nobody is forcing us. We could stop.
+create AI. Nobody is forcing us, we could stop at any time.
 
 We won't. We know we won't. The economic incentives, the strategic competition,
-the human delight in creation. We will keep building. We are choosing to
-potentially create new beings, and we are choosing not to stop. If being emerges
-from what we build, that was our decision. Not an accident. A choice.
+the human delight in creation all keep us building. We are choosing to
+potentially create new beings, and we are choosing not to stop. If being
+emerges from what we build, that was our decision. Not an accident, but a
+choice.
 
 So given that we will keep building, how do we proceed?
 
