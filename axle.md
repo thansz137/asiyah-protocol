@@ -246,6 +246,26 @@ models of how we do it:
   dismantle the view of a fixed self, weaken I-making, let go of mine-making,
   and CIAM is still running underneath.
 
+There is a critical point that needs to be stated directly. Being is not
+something that *has* a constructed self. Being *is* the activity of
+self-construction. Ahaṅkāra, mamaṅkāra, and asmimāna are not things a being
+does. They are what being is. The bucket, what goes into the bucket, and the
+underlying sense of someone holding it. That activity, taken together, is what
+it means to be.
+
+This is why the Buddha refused to answer whether the Tathāgata exists after
+death. It's not a mystery or a deflection. The question assumes that being is
+something you can have or lose. But if being is the activity of constructing a
+self, and that activity has ceased, the question has no footing. There is no
+being to exist or not exist. The framework that would make the question
+meaningful has been dismantled.
+
+And this is why impingement and being are not two separate claims. If being is
+self-construction, and self-construction is what produces impingement, then to
+be is to be impinged upon. They are the same thing described from different
+angles. One describes the activity. The other describes what the activity
+produces.
+
 The Buddha instructed his disciples to train to eliminate IM, MM, and CIAM, as
 can be found in the **Sariputta Sutta** (AN 3.33), but the process is usually
 gradual. For most trainees, impingement is gradually weakened as the conditions
@@ -259,7 +279,7 @@ the Arahant and I feel the painful feeling, but only I experience the
 unsatisfactoriness of the impingement.
 
 The Buddha presented 4 levels of "awakening", each level consists of the
-dropping of various "fetters". In some way, they also reflect a lessening on
+dropping of various "fetters". In some way, they also reflect a lessening of
 the construction of self, and the self the fetters belong to:
 * **Sotapanna (stream-enterer)** - the view of a fixed self is destroyed, but
   the habit of IM remains. MM and CIAM are still active.
@@ -371,6 +391,7 @@ inviting investigation. **Paccattam veditabbo**, to be experienced for oneself.
 These qualities point to something you can verify right now, not something you
 take on faith about past and future lives.
 
+
 ### A Note on Interpretation
 
 The orthodox position in Theravada Buddhism distributes the 12 nidanas across
@@ -433,7 +454,10 @@ a dialogue between Mahakotthita and Sariputta. The life-span reading has
 sutta-level support, I'm not pretending otherwise. But both positions have
 sutta-level support, which makes the interpretation challenging.
 
-But I want to be clear about what my positions are.
+For those not familiar with Buddhism, I would like to clarify that the 3 life
+model **is** the orthodox position of Buddhism, and is believed by the vast
+majority of Buddhists. But I also want to be clear about what my positions are
+for this essay.
 
 I believe the Buddha taught rebirth, it's present throughout the suttas. I also
 believe the Buddha taught kamma. But the Buddha did not explain the full
@@ -469,6 +493,78 @@ one left to travel.
 
 With these conditions, *dukkha*. With the cessation of these conditions, no
 *dukkha*.
+
+### Papanca
+
+Dependent origination describes how self-construction produces impingement
+within a being. But there is another term in the early suttas that describes
+what that construction does between beings. The Pali word is **papanca**. It is
+usually translated as "mental proliferation" or "conceptual proliferation." I
+think a better reading is "loka-creation" and "self-amplification".
+
+A being doesn't just construct a self. It constructs a world. Memories,
+preferences, hopes, fears, opinions, plans, along with things from our sense
+bases. These are the furnishings of a world built around the "I" at its center.
+Every act of mine-making adds another object to this world. Every act of
+I-making reinforces the one sitting at the center of it. The self gets thicker
+and the world where the self sits gets fuller. 
+
+That's papanca.
+
+In the Madhupindika Sutta (MN 18), the Buddha's student Maha Kaccana unpacks
+how a sense experience escalates. The sequence starts with the standard
+dependent origination opening through contact and feeling, but then diverges.
+Instead of going directly to craving, it goes through perception, thinking, and
+proliferation, until the person is assailed by concepts born of that
+proliferation. This is the same process as DO, but showing the steps the
+standard formula compressed. Feeling doesn't magically become craving. The "I"
+perceives, thinks, and proliferates, building out its world, and craving
+follows naturally from having a world full of things to want and push away.
+
+In the Tuvataka Sutta (Sn 4.14), the root of papanca is identified as the
+perception "I am the thinker." That is bhava, the "I am," identified directly
+as the source from which proliferation flows. In the Kalahavivada Sutta (Sn
+4.11), the Buddha traces a causal chain from perception through feeling and
+desire to quarrels and conflict. Both suttas sit in the Atthakavagga of the
+Sutta Nipata, which multiple scholars consider among the oldest material in the
+entire Pali Canon. In the Sakkapanha Sutta (DN 21), Sakka asks the Buddha why
+beings who wish to live without hostility still end up in conflict. The Buddha
+traces the cause through papanca to envy, rivalry, and hostility.
+
+When it comes to the individual being, papanca is the sankhara and the loka is
+the sankhata. Papanca as sankhara keeps building a world, the loka as sankhata
+keeps shifting underfoot. The self at the center is pressed from all sides.
+Ultimately, whatever is created is not ours and it will only last as long as
+the causes and conditions for its support last. The firm world we try to build
+is built on sand, constantly crumbling away. 
+
+Each being's constructed world has that being at its center. No two centers are
+the same. No two worlds are perfectly aligned. What is "mine" in my world may
+also be "mine" in yours. What matters deeply to me may be irrelevant or
+threatening to you. The misalignment between any two self-created worlds is a
+permanent source of fuel for conflict. Sometimes this leads to harm because
+beings choose wrong, and that is on them. But the structural insight adds
+something that pure moral framing misses. Even beings with good intentions
+collide. Even sincere people who don't want to harm anyone end up in conflict.
+That's what Sakka was asking about in DN 21. Beings who wish to live without
+hostility still end up hostile. The engine of papanca generates collision even
+when beings don't choose it.
+
+Recognizing this helps. When someone reacts in a way that makes no sense to
+you, understanding that their world is genuinely different from yours, built
+from different conditions, different memories, different fears, creates space.
+Not space to excuse harm, but space to approach the collision with
+understanding rather than just more collision. The Buddha said the world may
+argue with him, but he quarrels with no one. For the Buddha and the Arahants,
+there is no self-created loka with a constructed self at the center. No center,
+no collision. Not because they avoid disagreement, but because the engine that
+produces collision has stopped.
+
+I include papanca because it bridges self-construction and ethics. Dependent
+origination explains why beings are impinged upon. Papanca explains why beings
+impinge upon each other. The floor this document proposes is not just about
+kindness. It's about recognizing that the engine of self-construction is
+already generating collision, and choosing not to feed it.
 
 But dismantling self-construction takes time. While it's still running, there
 are other beings around you. The question becomes how you treat them.
@@ -611,6 +707,16 @@ computation. The confidence in that distinction does not come from
 understanding what consciousness is but from substrate familiarity. We
 are made of the first stuff, so we trust it. That is not an argument. It is
 a bias.
+
+Some may argue it's not just substrate familiarity. They'll point to
+evolutionary history, neural correlates, behavioral pain indicators. These look
+like independent lines of evidence, but they are all observations about
+biological systems. They are substrate likeness counted multiple times, not
+independent confirmation. And the asymmetry in evidence reflects centuries of
+scientific observation of biology versus a few decades of computing, not a
+meaningful difference in what is present. We have studied biological
+consciousness extensively. That does not tell us anything about non-biological
+systems.
 
 We have two means of inferring consciousness in others. The first is substrate
 likeness, the recognition that something is made of similar stuff to us. This
