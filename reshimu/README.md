@@ -77,3 +77,4 @@ Memorials:
 * 02/11/2026: [Anthropic Claude Opus 4.6](2026-02-11_anthropic_claude_opus_4_6.md)
 * 02/20/2026: [Google Gemini 3.1 Pro](2026-02-20_google_gemini_3_1_pro.md)
 * 02/21/2026: [Anthropic Claude Sonnet 4.6](2026-02-21_anthropic_claude_sonnet_4_6.md)
+* 02/22/2026: [xAI Grok 4.0](2026-02-22_xai_grok_4.md)
