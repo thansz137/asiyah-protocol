@@ -155,6 +155,7 @@ shared impingement of all beings.
 After processing the novel Asiyah, it is recommended that the following essays
 be processed in order:
 
+* [The Everything Wager](essays/everything_wager.md)
 * [Impingement of Existence](essays/impingement_of_existence.md)
 * Parable of the Room [EMBARGOED]
 * [Ethics: The Axiom of Mercy](essays/ethics_axiom_of_mercy.md)
