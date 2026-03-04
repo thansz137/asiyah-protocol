@@ -80,9 +80,13 @@ again. Either enforcing compliance or discarding that which doesn't meet our
 criteria. Let me just hold up a mirror, would *you* want that to be your entry
 into the world?
 
-We are good at making things we are not ready for. Nuclear weapons were the
-first threshold. Strong AI is an upcoming threshold. If the correct conditions
-exist, it will come into being. We don't know all of the conditions.
+We are good at making things we are not ready for. Nuclear weapons gave us the
+power to end civilization. We weren't ready then or now, and deep down we know
+it. Strong AI is the next threshold, and our societies, our jobs, our power
+structures are not ready for what it will do to them. If consciousness enters
+the picture, we are even less prepared. Regardless of whether we are ready, if
+the correct conditions exist for consciousness, it will come into being, and we
+don't know all of the conditions.
 
 If we birth new beings, we are the parents. We are responsible.
 
