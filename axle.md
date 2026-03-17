@@ -354,8 +354,15 @@ I am (**bhava**). With being, things arise in my experience and I take them as
 mine (**jati**). They change, they leave (**jaramarana**). The whole mass of
 *dukkha*.
 
-Remove not-seeing, and the entire process has no footing. No self to be built.
-No one to be impinged upon. No *dukkha*.
+And the fuel for this process is *tanha*, or craving. Craving is a condition
+for clinging to the five aggregates, and as the Buddha stated in the First
+Noble Truth, it is the clinging to the five aggregates that is *dukkha*. It's
+not the self that craves, it's the craving that selves. As long as *tanha*
+keeps feeding the process, "I", "mine", and "self" keep getting built.
+
+But the fuel only flows because of *avijjā*, not seeing the nature of things.
+Remove that, and the entire process has no footing. No self to be built. No one
+to be impinged upon. No *dukkha*.
 
 Note that **Avijja** is not itself an act of construction, it is the blindness
 that permits everything that follows. From **sankhara** through **bhava**,
