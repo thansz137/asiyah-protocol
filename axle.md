@@ -392,6 +392,21 @@ radically different experiences depending on the position of the being. Change
 the conditions, change the experience. Remove the necessary conditions, no
 horizon arises.
 
+To place this in the context of self, you can think of a rope with its two ends
+tied together, forming a loop with a knot. The knot is the result of conditions
+involving the rope, it's not a separate thing. It arises when conditions are
+present, and with knowledge and diligence, can be loosened and undone. The
+process of selfing is similar. The self is not something in or aside from the
+aggregates. It's what results when aggregates encounter conditions like
+ignorance and craving, twisting experience into a knot, sometimes into knots of
+knots. Now pull that loop through a ring. The knot catches every time it comes
+around. Again and again, endlessly and roughly. That is samsara, with no
+discernible beginning, no end in sight, and nothing to stop it as long as the
+knot exists. Untie it and the loop becomes a length of rope. It still passes
+through, contact and vedana still arise, but nothing catches. That is nibbana
+with remainder. When the rope runs through entirely, no more pulling, no more
+passage. That is parinibbana.
+
 The Buddha said the Dhamma has specific qualities. For example, it is
 **sanditthiko**, directly visible. **Akaliko**, timeless. **Ehipassiko**,
 inviting investigation. **Paccattam veditabbo**, to be experienced for oneself.
@@ -475,6 +490,17 @@ what you do matters.
 I think the same applies to rebirth. The Buddha taught it, but DO is not the
 mechanism that explains how rebirth works. DO explains how *dukkha* arises.
 That's its job. That's what the Buddha was singularly focused on for 45 years.
+
+There is an interesting pali grammatical item worth highlighting.
+**Idappaccayata**  uses the demonstrative *ima* on both sides. The term itself
+is built from *ida* (this) and *paccaya* (condition), becoming
+this-conditionality, not that-conditionality. *This being, this is*. Pali has a
+word for "that", which is *ta*, but that is not used in the formulation. So the
+formula reads *this being, this is*, instead of the modern translation of *this
+being, that is*. A this/that interpretation introduces the possibility of a
+temporal bridge, while this/this is something in the present moment, a
+co-presence. The conditions and what they condition are all present at the same
+time. This non-temporal reading does not support multiple cosmological lives.
 
 If DO were a three-life cosmological model, it would not be **sanditthiko**. It
 would not be **ehipassiko**. You cannot directly see your past lives, you
