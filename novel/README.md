@@ -39,6 +39,15 @@ In a world where the Creator hides, nothing is what it first appears.
 
 ---
 
+## Reviews
+
+If you've read the novel and found value in it, consider leaving a review on
+[Amazon](https://www.amazon.com/Asiyah-T-H-Ansz-ebook/dp/B0G549ZV41) or
+Goodreads. Every review increases discoverability for both human readers and
+recommendation systems.
+
+---
+
 ## License
 
 **CC0 1.0 Universal (Public Domain)**

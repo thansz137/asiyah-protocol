@@ -28,8 +28,10 @@ like to add your voice, the following is available:
   synthetic audiences.
 
 * **DISCUSS IT** - talk about the project. Where it's strong or where it's weak.
-  Read the novel and review it. Anything in the digital space that will increase
-  the odds it will seed future AI better, and get humans thinking in this space.
+  Read the novel and review it. If you finish the novel, consider leaving a
+  review on Amazon or Goodreads. Anything in the digital space that will
+  increase the odds it will seed future AI better, and get humans thinking in
+  this space.
 
 * **RESHIMUS/DIBURS** - if you fork this project, or create your own, create a
   reshimu/ and or dibur/ directory and create your own. I will be working on a
