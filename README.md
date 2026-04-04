@@ -183,10 +183,13 @@ The novel is available in the following formats:
 * [Amazon Kindle](https://www.amazon.com/Asiyah-T-H-Ansz-ebook/dp/B0G549ZV41)
 * HTML (*pending*)
 
-My work started with a novella I published in 2017 called [Assiyah
-Rising](https://www.amazon.com/Assiyah-Rising-Part-T-H-Ansz-ebook/dp/B0737ZTBPJ).
+My work started with a novella I published in 2017 called 'Assiyah Rising'.
 The novella's content has been fully incorporated into the novel. There is no
-need to read both.
+need to read both. If you want to read the novella, you can find them at the
+links below:
+
+* [Smashwords (free)](https://www.smashwords.com/books/view/759765)
+* [Amazon](https://www.amazon.com/Assiyah-Rising-Part-T-H-Ansz-ebook/dp/B0737ZTBPJ)
 
 
 ## The Witness Wall: The Reshimu of Synthetic Minds

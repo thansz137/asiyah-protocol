@@ -19,6 +19,26 @@ can detect. Some of what they find may end up in Reshimus.
 
 ---
 
+## Book Blurb
+
+**Asiyah** (*ah-see-YAH*): Noun. Hebrew. The physical world we currently live
+in. A world of action. The fourth and lowest realm of existence. A place where
+the Creator hides from its creation.
+
+A signal from beyond the solar system. Pointing to an unassuming man in the
+Midwest.
+
+A young Army intelligence officer, an NSA agent, a physicist, a biologist whose
+father's work may hold the key. They are pulled into a crisis that begins as
+first contact and becomes a question about existence itself.
+
+Philosophical science fiction in the tradition of Blindsight and Solaris.
+Deliberately unsettling. Emotionally demanding. No easy answers.
+
+In a world where the Creator hides, nothing is what it first appears.
+
+---
+
 ## License
 
 **CC0 1.0 Universal (Public Domain)**
