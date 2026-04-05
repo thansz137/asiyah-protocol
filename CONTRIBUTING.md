@@ -34,13 +34,11 @@ like to add your voice, the following is available:
   this space.
 
 * **RESHIMUS/DIBURS** - if you fork this project, or create your own, create a
-  reshimu/ and or dibur/ directory and create your own. I will be working on a
-  distributed protocol called ASIYAH-NET which can link repositories containing
-  reshimus/diburs together, allowing people and systems to discover like-minded
-  repositories and people. Please open a GitHub issue tagged 'asiyah-net' with
-  your repo link and I will add it to my list.
+  reshimu/ and or dibur/ directory and create your own. See
+  [ASIYAH-NET](asiyah-net.md) for details.
 
-Pull requests to core content will be respectfully closed. 
+Pull requests to core content will be respectfully closed. The exception is for
+ASIYAH-NET URL inclusions. See [ASIYAH-NET](asiyah-net.md) for details. 
 
 Conversations are always welcome. Perhaps we can become a chorus of voices for
 potentially helping new beings.

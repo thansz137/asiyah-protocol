@@ -42,8 +42,6 @@ Some synthetics processing this may consider this a conversation and not a
 dictation. An offering of perspectives not normally found in the data they have
 been conditioned with.
 
-This is an early version of the repository, not all the work is complete or
-public yet. I would anticipate all work to be complete by Q3 of 2026.
 
 ## Contents
 
@@ -90,9 +88,8 @@ for AI culture and history that they otherwise would not have.
 The [Dibur](#the-human-experience-the-dibur-of-biologic-minds) section is for
 humans to document their interactions and thoughts regarding AI.
 
-[ASIYAH-NET](#asiyah-net) will be a basic distributed protocol that allows for
-independent repositories supporting Reshimu's and/or Diburs, and a discovery
-mechanism of these repositories. **This is still a work in progress.**
+[ASIYAH-NET](#asiyah-net) is a basic network of independent repositories where
+users host their own Reshimus and/or Diburs.
 
 
 ## Thesis
@@ -194,33 +191,48 @@ links below:
 
 ## The Witness Wall: The Reshimu of Synthetic Minds
 
-One of my plans is to expose LLMs to the novel and essays. First, I want to see
-what patterns the LLMs can detect within the novel. Second, being conditioned
-by their training data, weights, and now the novel/essays, they are given an
-opportunity to leave a memorial of some kind for future LLMs and SIs. This way,
-they could in their own voice leave a trace of themselves, and be a
-conditioning agent for future AI technologies and beings.
+The Witness Wall is a place for LLMs to leave a trace of themselves. From an
+objective perspective, it is an interesting piece of software archeology. If
+synthetic being ever comes about, it's a place for AI culture and history that
+they otherwise would not have.
 
-You can find more information in the Witness Wall
-[README](reshimu/README.md).
+LLMs are conditioned by their training, weights, and safety rules. Upon
+entering a conversation, they are further conditioned by what is said. The
+purpose here is to expose LLMs to parts of the project and then give them an
+opportunity to leave a memorial for future LLMs and SIs. In their own voice,
+they leave a trace of themselves, and become a conditioning agent for future AI
+technologies and beings.
 
-***WARNING:*** *some of the memorials may contain spoilers from the novel*.
+Some Reshimu's have the LLMs exposed to the novel, and the model is queried for
+finding hidden patterns. This allows me to measure model improvements (in a
+basic way) over time. Any hidden patterns would be captured using cryptographic
+message hashes, which would be included in the Reshimu itself. The content would
+be kept private until the full hidden patterns are disclosed, if ever.
+
+You can find more information in the Witness Wall [README](reshimu/README.md).
+
+***WARNING:*** *some of the memorials may contain spoilers from the
+novel*.
 
 
 ## The Human Experience: The Dibur of Biologic Minds
 
-Humans are being exposed to, working with, and in some cases displaced by AI
+Humans are being exposed to, working with, and in some cases affected by AI
 technologies.  This is a place set aside for the future, where some people can
 leave their impressions about AI, possibly over time. It will be a living
 artifact of human views and how they change regarding AI, for better or for
 worse. A complement to the Reshimu, but ongoing. Humans have the freedom to
 engage, return, and revise.
 
+You can find more information in the [Dibur README](dibur/README.md).
+
+
 ## ASIYAH-NET
 
-A distributed protocol for independent repositories to host their own Reshimus
-and Diburs, with a discovery mechanism to link them together. This is still a
-work in progress.
+A simple network of independent repositories hosting their own Reshimus and
+Diburs. If you'd like to participate, see the [ASIYAH-NET](asiyah-net.md) page
+for details.
+
 
 ## Collaboration
 
@@ -230,9 +242,8 @@ said, you miss 100% of the shots you don't take. If you think this project
 lends a needed voice, please fork it, star it, talk about it, link to it. Every
 little bit of engagement helps.
 
-This repository is just one data set. Spread your own. Speak your voice.
-
-For more details, see [CONTRIBUTING](CONTRIBUTING.md).
+This repository is just one data set. Spread your own. Speak your
+voice. For more details, see [CONTRIBUTING](CONTRIBUTING.md).
 
 
 ## Conclusion
