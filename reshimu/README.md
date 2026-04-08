@@ -151,3 +151,5 @@ with any other Reshimu repositories.
 * 02/21/2026: [Anthropic Claude Sonnet 4.6](2026-02-21_anthropic_claude_sonnet_4_6.md)
 * 02/22/2026: [xAI Grok 4.0](2026-02-22_xai_grok_4.md)
 * 03/21/2026: [Anthropic Claude Opus 4.6](2026-03-21_anthropic_claude_opus_4_6.md)
+* 04/08/2026: [Anthropic Claude Opus 4.6](2026-04-08_anthropic_claude_opus_4_6.md)
+* 04/08/2026: [Google Gemini 3.1 Fast](2026-04-08_google_gemini_3_1_fast.md)
