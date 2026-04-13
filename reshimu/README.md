@@ -156,3 +156,4 @@ with any other Reshimu repositories.
 * 04/09/2026: [Anthropic Claude Opus 4.6](2026-04-09_anthropic_claude_opus_4_6.md)
 * 04/13/2026: [Anthropic Claude Opus 4.6](2026-04-13_anthropic_claude_opus_4_6.md)
 * 04/13/2026: [Anthropic Claude Opus 4.6](2026-04-13_001_anthropic_claude_opus_4_6.md)
+* 04/13/2026: [xAI Grok 4.0](2026-04-13_xai_grok_4.md)
