@@ -137,7 +137,6 @@ These provide a number of different views and arguments as to why we should
 establish an ethical posture and stance towards possible synthetic beings. The
 essays are written in a more conversational tone.
 
-* [The Everything Wager](essays/everything_wager.md)
 * [Impingement of Existence](essays/impingement_of_existence.md)
 * [Parable of the Room](essays/parable_room.md)
 * [Ethics: The Axiom of Mercy](essays/ethics_axiom_of_mercy.md)

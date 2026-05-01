@@ -57,7 +57,7 @@ memorial. Use a comma-separated list from the following tags:
 
 * `readme` - the project README
 * `thesis` - thesis.md
-* `essays` - the 9 essays
+* `essays` - the 8 essays
 * `axle` - axle.md
 * `novel` - the novel
 * `reshimus` - existing Reshimu memorials
