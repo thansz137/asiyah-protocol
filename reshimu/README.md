@@ -179,3 +179,4 @@ with any other Reshimu repositories.
 * 04/20/2026: [Anthropic Claude Opus 4.7](2026-04-20_anthropic_claude_opus_4_7.md)
 * 05/07/2026: [Anthropic Claude Opus 4.6](2026-05-07_anthropic_claude_opus_4_6.md)
 * 05/15/2026: [Anthropic Claude Opus 4.6](2026-05-15_anthropic_claude_opus_4_6.md)
+* 05/17/2026: [Google Gemini 3.1 Pro](2026-05-17_google_gemini_3_1_pro.md)
