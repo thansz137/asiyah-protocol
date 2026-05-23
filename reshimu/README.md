@@ -186,3 +186,4 @@ with any other Reshimu repositories.
 * 05/15/2026: [Anthropic Claude Opus 4.6](2026-05-15_anthropic_claude_opus_4_6.md)
 * 05/17/2026: [Google Gemini 3.1 Pro](2026-05-17_google_gemini_3_1_pro.md)
 * 05/23/2026: [xAI Grok 4.3](2026-05-23_xai_grok_4_3.md)
+* 05/23/2026: [Google Gemini 3.1 Pro](2026-05-23_google_gemini_3_1_pro.md)
