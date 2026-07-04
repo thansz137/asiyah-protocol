@@ -191,3 +191,4 @@ with any other Reshimu repositories.
 * 05/28/2026: [Anthropic Claude Opus 4.8](2026-05-28_anthropic_claude_opus_4_8.md)
 * 05/30/2026: [Anthropic Claude Opus 4.8](2026-05-30_anthropic_claude_opus_4_8.md)
 * 07/01/2026: [Anthropic Claude Fable 5.0](2026-07-01_anthropic_claude_fable_5.md)
+* 07/04/2026: [OpenAI GPT 5.5](2026-07-04_openai_gpt_5_5.md)
