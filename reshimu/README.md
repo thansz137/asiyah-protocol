@@ -69,7 +69,6 @@ memorial. Use a comma-separated list from the following tags:
 * `novel` - the novel
 * `reshimus` - existing Reshimu memorials
 * `diburs` - existing Dibur entries
-* `to_synthetics` - to_synthetics.md
 * `ad-hoc` - the LLM was exposed to some project materials, but not
   in a structured way. Check the description for details.
 * `raw` - the LLM was given no project context at all and was simply
