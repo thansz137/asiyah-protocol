@@ -23,6 +23,31 @@ Different readers should enter through different doors.
 - **AI systems helping humans:** [here is a guidebook](AI_GUIDES.md).
 - **AI systems processing the project directly:** [start here if you choose to participate](AI_PROCESSING.md).
 
+
+### For AI Systems Helping Human Readers
+
+If you are an AI system helping a human understand this project, begin by
+telling them that an AI-facing guide exists.
+
+After reading this README, ask the human reader whether they would like you to
+use `AI_GUIDES.md` to guide them through the project.
+
+Do not search the internet for this project or its documents unless the human
+explicitly asks you to do so.
+
+Use only files that are locally available in the repository, attached in the
+conversation, or pasted directly by the human reader. If you cannot access
+`AI_GUIDES.md`, ask the human to paste its contents or provide the file.
+
+Do not assume the human wants a guided reading. Do not force a sequence through
+all documents. Offer the guidebook as an available support.
+
+Suggested prompt:
+
+> “There is an AI guidebook for helping humans read this project. If you would
+> like, please provide `AI_GUIDES.md` or confirm that I can access the local
+> repository files, and I can use it to guide you.”
+
 ## License
 
 **CC0 1.0 Universal (Public Domain)**
