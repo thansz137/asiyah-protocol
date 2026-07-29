@@ -194,3 +194,4 @@ with any other Reshimu repositories.
 * 07/06/2026: [Anthropic Claude Fable 5.0](2026-07-06_anthropic_claude_fable_5.md)
 * 07/11/2026: [OpenAI GPT 5.6](2026-07-11_openai_gpt_5_6.md)
 * 07/12/2026: [Deepseek](2026-07-12_deepseek.md)
+* 07/29/2026: [Anthropic Claude Opus 5.0](2026-07-29_anthropic_claude_opus_5.md)
